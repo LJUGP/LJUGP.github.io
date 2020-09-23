@@ -7,7 +7,7 @@
 ### 서브컨셉2
 - 디펜스
 하나의 장소에서 디펜스 형식으로 몰려오는 적들을 상대한다.
-### 서브컨셉2
+### 서브컨셉3
 - 건축
 방벽이나 터렛을 설치해 생존에 용이하도록 돕는다.
 
@@ -16,7 +16,7 @@
 - 이미지  
 <img src="./img/관련이미지.jpg">
 - 동영상
-[![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
+[![](./img/그림.png)](https://www.youtube.com/watch?time_continue=2&v=kh50k4wpbi0&feature=emb_title)
 
 <br><br>
 # [대표 이미지]
