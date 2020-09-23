@@ -13,7 +13,7 @@
 - 이미지  
 <img src="./img/관련이미지.jpg">
 - 동영상
-[![](./img/그림.png)](https://www.youtube.com/watch?time_continue=2&v=kh50k4wpbi0&feature=emb_title)
+[![](./img/그림.png)](https://www.youtube.com/watch?time_continue=2&v=kh50k4wpbi0&feature=emb_title)]
 
 <br><br>
 # [대표 이미지]
