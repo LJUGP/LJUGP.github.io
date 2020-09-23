@@ -14,7 +14,7 @@
 <img src="./img/관련이미지.jpg">
 - 동영상
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/kh50k4wpbi0)
-[![](./img/그림.png)](https://youtu.be/kh50k4wpbi0)
+[![Watch the video](./img/그림.png)](https://youtu.be/kh50k4wpbi0)
 
 <br><br>
 # [대표 이미지]
