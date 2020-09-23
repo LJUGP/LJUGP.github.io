@@ -13,8 +13,8 @@
 - 이미지  
 <img src="./img/관련이미지.jpg">
 - 동영상
-[![](./img/그림.png)](https://www.youtube.com/watch?time_continue=2&v=kh50k4wpbi0&feature=emb_title)
-<iframe width="560" height="315" src="https://www.youtube.com/watch?time_continue=2&v=kh50k4wpbi0&feature=emb_title" frameborder="0" allowfullscreen></iframe>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/kh50k4wpbi0)
+[![](./img/그림.png)](https://youtu.be/kh50k4wpbi0)
 
 <br><br>
 # [대표 이미지]
