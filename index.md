@@ -59,6 +59,6 @@
 |2|일반 좀비|<img src="./img/일반_좀비.png">|  
 |3|보스 좀비|<img src="./img/보스_좀비.jpg">|  
 |4|바리게이트|<img src="./img/바리게이트.jpg">|  
-|5|터렛|<img src="./img/터렛.jpg">|  
+|5|터렛|<img src="./img/포탑.jpg">|  
 |6|총|<img src="./img/총.jpg">|  
 |7|맵|<img src="./img/맵.jpg">|  
