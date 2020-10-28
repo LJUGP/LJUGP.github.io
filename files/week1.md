@@ -7,4 +7,4 @@
 
 <br>
 
-<img src="LJUGP.github.io/img/week1.png">
+<img src="https://github.com/LJUGP/LJUGP.github.io/blob/master/img/week1.png?raw=true">
